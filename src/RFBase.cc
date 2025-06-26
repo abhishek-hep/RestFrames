@@ -27,7 +27,7 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/RestFrames_config.h"
+//#include "RestFrames/RestFrames_config.h"
 #include "RestFrames/RFBase.hh"
 
 namespace RestFrames {
@@ -190,9 +190,9 @@ namespace RestFrames {
   __attribute__((constructor))
   static void initializer(void){
     printf("\n" "\x1b[36m");
-    printf(PACKAGE_NAME);
+    printf("RestFrames ");
     printf(" v");
-    printf(PACKAGE_VERSION);
+    printf("v1.0.1");
     printf(" -- Developed by Christopher Rogan (crogan@cern.ch)\n");
     printf("                     ");
     printf("Copyright (c) 2014-2018, Christopher Rogan\n");

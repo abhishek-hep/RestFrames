@@ -27,12 +27,12 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#define COMPILER (!defined(__CINT__) && !defined(__CLING__))
-#if defined(__MAKECINT__) || defined(__ROOTCLING__) || COMPILER
-#include "RestFrames/RestFrames.hh"
-#else
-RestFrames::RFKey ensure_autoload(1);
-#endif
+//#define COMPILER (!defined(__CINT__) && !defined(__CLING__))
+//#if defined(__MAKECINT__) || defined(__ROOTCLING__) || COMPILER
+#include "RestFrames.hh"
+//#else
+//RestFrames::RFKey ensure_autoload(1);
+//#endif
 
 using namespace RestFrames;
 
