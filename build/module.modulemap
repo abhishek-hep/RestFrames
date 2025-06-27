@@ -1,7 +1,0 @@
-module "RestFrames" {
-  requires cplusplus
-  module "RestFrames/RestFrame.hh" { header "RestFrames/RestFrame.hh" export * }
-  link "libRestFrames.so"
-  export *
-}
-
