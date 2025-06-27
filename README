@@ -1,4 +1,4 @@
-RestFrames: particle physics event analysis library
+# RestFrames: particle physics event analysis library
 ---------------------------------------------------
 www.RestFrames.com
 
@@ -6,12 +6,33 @@ Developed by Christopher Rogan (crogan@cern.ch)
 Copyright (c) 2014-2016, Christopher Rogan
 
 ------------
-Installation 
+## Download
 ------------
 
-Installation instructions can be found in the INSTALL file provided with the 
-RestFrames distribution.
+You can get the code from 
 
--------------------
-Directory structure
--------------------
+`
+https://github.com/abhishek-hep/RestFrames
+`
+
+------------
+## Installation 
+------------
+
+Installation uses CMake so make sure you have that and ROOT installed and ready to use.
+
+```
+cd RestFrames;
+mkdir build;
+cd build;
+
+cmake ../;
+cmake --build .;
+source setup.sh
+```
+The next time you want to use RestFrames you just need to
+`
+source RestFrames/build/setup.sh
+`
+
+
