@@ -35,7 +35,7 @@
 #include <map>
 #include <exception>
 
-#include "RestFrames/RFList.hh"
+#include "RFList.hh"
 
 namespace RestFrames {
 

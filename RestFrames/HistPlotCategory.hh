@@ -30,7 +30,7 @@
 #ifndef HistPlotCategory_HH
 #define HistPlotCategory_HH
 
-#include "RestFrames/RFBase.hh"
+#include "RFBase.hh"
 
 namespace RestFrames {
 

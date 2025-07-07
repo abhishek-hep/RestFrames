@@ -27,10 +27,10 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/CombinatoricState.hh"
-#include "RestFrames/Jigsaw.hh"
-#include "RestFrames/VisibleState.hh"
-#include "RestFrames/RestFrame.hh"
+#include "CombinatoricState.hh"
+#include "Jigsaw.hh"
+#include "VisibleState.hh"
+#include "RestFrame.hh"
 
 namespace RestFrames {
 

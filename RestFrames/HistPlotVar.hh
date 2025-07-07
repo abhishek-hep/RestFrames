@@ -30,7 +30,7 @@
 #ifndef HistPlotVar_HH
 #define HistPlotVar_HH
 
-#include "RestFrames/RFBase.hh"
+#include "RFBase.hh"
 
 namespace RestFrames {
 

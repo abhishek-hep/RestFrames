@@ -30,8 +30,8 @@
 #include <math.h>
 #include <TRandom3.h>
 #include <TDatime.h>
-#include "RestFrames/GeneratorFrame.hh"
-#include "RestFrames/VisibleGenFrame.hh"
+#include "GeneratorFrame.hh"
+#include "VisibleGenFrame.hh"
 
 namespace RestFrames {
 

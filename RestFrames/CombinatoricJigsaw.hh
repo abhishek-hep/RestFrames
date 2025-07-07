@@ -30,10 +30,10 @@
 #ifndef CombinatoricJigsaw_HH
 #define CombinatoricJigsaw_HH
 
-#include "RestFrames/RestFrame.hh"
-#include "RestFrames/Jigsaw.hh"
-#include "RestFrames/CombinatoricGroup.hh"
-#include "RestFrames/CombinatoricState.hh"
+#include "RestFrame.hh"
+#include "Jigsaw.hh"
+#include "CombinatoricGroup.hh"
+#include "CombinatoricState.hh"
 
 namespace RestFrames {
 

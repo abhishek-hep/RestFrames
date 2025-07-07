@@ -30,8 +30,8 @@
 #ifndef LabGenFrame_HH
 #define LabGenFrame_HH
 
-#include "RestFrames/LabFrame.hh"
-#include "RestFrames/GeneratorFrame.hh"
+#include "LabFrame.hh"
+#include "GeneratorFrame.hh"
 
 namespace RestFrames {
 

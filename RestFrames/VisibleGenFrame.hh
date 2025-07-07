@@ -30,8 +30,8 @@
 #ifndef VisibleGenFrame_HH
 #define VisibleGenFrame_HH
 
-#include "RestFrames/VisibleFrame.hh"
-#include "RestFrames/GeneratorFrame.hh"
+#include "VisibleFrame.hh"
+#include "GeneratorFrame.hh"
 
 namespace RestFrames {
 

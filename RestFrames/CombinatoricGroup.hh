@@ -30,9 +30,9 @@
 #ifndef CombinatoricGroup_HH
 #define CombinatoricGroup_HH
 
-#include "RestFrames/Group.hh"
-#include "RestFrames/VisibleState.hh"
-#include "RestFrames/CombinatoricState.hh"
+#include "Group.hh"
+#include "VisibleState.hh"
+#include "CombinatoricState.hh"
 
 namespace RestFrames { 
 

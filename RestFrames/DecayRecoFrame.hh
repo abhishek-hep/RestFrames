@@ -30,8 +30,8 @@
 #ifndef DecayRecoFrame_HH
 #define DecayRecoFrame_HH
 
-#include "RestFrames/DecayFrame.hh"
-#include "RestFrames/ReconstructionFrame.hh"
+#include "DecayFrame.hh"
+#include "ReconstructionFrame.hh"
 
 namespace RestFrames {
 

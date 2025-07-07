@@ -30,7 +30,7 @@
 #ifndef Group_HH
 #define Group_HH
 
-#include "RestFrames/RFBase.hh"
+#include "RFBase.hh"
 
 namespace RestFrames {
 

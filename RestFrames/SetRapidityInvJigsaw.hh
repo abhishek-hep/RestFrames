@@ -30,7 +30,7 @@
 #ifndef SetRapidityInvJigsaw_HH
 #define SetRapidityInvJigsaw_HH
 
-#include "RestFrames/InvisibleJigsaw.hh"
+#include "InvisibleJigsaw.hh"
 
 namespace RestFrames {
 

@@ -30,7 +30,7 @@
 #ifndef ResonanceGenFrame_HH
 #define ResonanceGenFrame_HH
 
-#include "RestFrames/DecayGenFrame.hh"
+#include "DecayGenFrame.hh"
 
 namespace RestFrames {
 

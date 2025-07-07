@@ -30,8 +30,8 @@
 #ifndef VisibleRecoFrame_HH
 #define VisibleRecoFrame_HH
 
-#include "RestFrames/ReconstructionFrame.hh"
-#include "RestFrames/VisibleFrame.hh"
+#include "ReconstructionFrame.hh"
+#include "VisibleFrame.hh"
 
 namespace RestFrames {
 

@@ -27,7 +27,7 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/InvisibleRecoFrame.hh"
+#include "InvisibleRecoFrame.hh"
 
 namespace RestFrames {
 

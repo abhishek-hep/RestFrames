@@ -30,8 +30,8 @@
 #ifndef RSelfAssemblingFrame_HH
 #define RSelfAssemblingFrame_HH
 
-#include "RestFrames/DecayRecoFrame.hh"
-#include "RestFrames/State.hh"
+#include "DecayRecoFrame.hh"
+#include "State.hh"
 
 namespace RestFrames {
 

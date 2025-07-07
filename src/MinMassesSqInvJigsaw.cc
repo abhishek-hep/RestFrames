@@ -30,8 +30,8 @@
 #include <TMatrixD.h>
 #include <TDecompSVD.h>
 
-#include "RestFrames/MinMassesSqInvJigsaw.hh"
-#include "RestFrames/InvisibleState.hh"
+#include "MinMassesSqInvJigsaw.hh"
+#include "InvisibleState.hh"
 
 namespace RestFrames {
 

@@ -30,8 +30,8 @@
 #ifndef RestFrame_HH
 #define RestFrame_HH
 
-#include "RestFrames/RFBase.hh"
-#include "RestFrames/RFCharge.hh"
+#include "RFBase.hh"
+#include "RFCharge.hh"
 
 namespace RestFrames {
 

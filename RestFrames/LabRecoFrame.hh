@@ -30,8 +30,8 @@
 #ifndef LabRecoFrame_HH
 #define LabRecoFrame_HH
 
-#include "RestFrames/ReconstructionFrame.hh"
-#include "RestFrames/LabFrame.hh"
+#include "ReconstructionFrame.hh"
+#include "LabFrame.hh"
 
 namespace RestFrames {
 

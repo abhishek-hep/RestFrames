@@ -30,7 +30,7 @@
 #ifndef MinMassDiffCombJigsaw_HH
 #define MinMassDiffCombJigsaw_HH
 
-#include "RestFrames/CombinatoricJigsaw.hh"
+#include "CombinatoricJigsaw.hh"
 
 namespace RestFrames {
 

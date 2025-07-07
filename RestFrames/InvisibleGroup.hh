@@ -30,8 +30,8 @@
 #ifndef InvisibleGroup_HH
 #define InvisibleGroup_HH
 
-#include "RestFrames/Group.hh"
-#include "RestFrames/InvisibleState.hh"
+#include "Group.hh"
+#include "InvisibleState.hh"
 
 namespace RestFrames {
 

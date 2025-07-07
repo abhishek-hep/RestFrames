@@ -27,8 +27,8 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-//#include "RestFrames/RestFrames_config.h"
-#include "RestFrames/RFBase.hh"
+//#include "RestFrames_config.h"
+#include "RFBase.hh"
 
 namespace RestFrames {
 

@@ -27,9 +27,9 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/VisibleState.hh"
-#include "RestFrames/VisibleRecoFrame.hh"
-#include "RestFrames/Jigsaw.hh"
+#include "VisibleState.hh"
+#include "VisibleRecoFrame.hh"
+#include "Jigsaw.hh"
 
 namespace RestFrames {
 

@@ -30,8 +30,8 @@
 #ifndef InvisibleGenFrame_HH
 #define InvisibleGenFrame_HH
 
-#include "RestFrames/InvisibleFrame.hh"
-#include "RestFrames/GeneratorFrame.hh"
+#include "InvisibleFrame.hh"
+#include "GeneratorFrame.hh"
 
 namespace RestFrames {
 

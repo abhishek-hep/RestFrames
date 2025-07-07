@@ -30,7 +30,7 @@
 #ifndef MinMassesSqInvJigsaw_HH
 #define MinMassesSqInvJigsaw_HH
 
-#include "RestFrames/InvisibleJigsaw.hh"
+#include "InvisibleJigsaw.hh"
 
 namespace RestFrames {
 

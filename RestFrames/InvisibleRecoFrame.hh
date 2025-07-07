@@ -30,8 +30,8 @@
 #ifndef InvisibleRecoFrame_HH
 #define InvisibleRecoFrame_HH
 
-#include "RestFrames/InvisibleFrame.hh"
-#include "RestFrames/ReconstructionFrame.hh"
+#include "InvisibleFrame.hh"
+#include "ReconstructionFrame.hh"
 
 namespace RestFrames {
 

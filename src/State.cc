@@ -27,9 +27,9 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/State.hh"
-#include "RestFrames/VisibleState.hh"
-#include "RestFrames/RestFrame.hh"
+#include "State.hh"
+#include "VisibleState.hh"
+#include "RestFrame.hh"
 
 namespace RestFrames {
 

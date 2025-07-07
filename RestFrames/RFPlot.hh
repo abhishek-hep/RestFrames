@@ -34,7 +34,7 @@
 #include <TColor.h>
 #include <TFile.h>
 
-#include "RestFrames/RFBase.hh"
+#include "RFBase.hh"
 
 namespace RestFrames {
 

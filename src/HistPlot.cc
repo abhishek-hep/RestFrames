@@ -31,9 +31,9 @@
 #include <TLatex.h>
 #include <TLegend.h>
 
-#include "RestFrames/HistPlot.hh"
-#include "RestFrames/HistPlotVar.hh"
-#include "RestFrames/HistPlotCategory.hh"
+#include "HistPlot.hh"
+#include "HistPlotVar.hh"
+#include "HistPlotCategory.hh"
 
 namespace RestFrames {
 				       

@@ -30,7 +30,7 @@
 #ifndef LabFrame_HH
 #define LabFrame_HH
 
-#include "RestFrames/RestFrame.hh"
+#include "RestFrame.hh"
 
 namespace RestFrames {
 

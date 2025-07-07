@@ -30,7 +30,7 @@
 #ifndef CombinatoricState_HH
 #define CombinatoricState_HH
 
-#include "RestFrames/State.hh"
+#include "State.hh"
 
 namespace RestFrames {
 

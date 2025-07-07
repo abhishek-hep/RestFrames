@@ -36,9 +36,9 @@
 #include <TVector3.h>
 #include <TLorentzVector.h>
 
-#include "RestFrames/RFKey.hh"
-#include "RestFrames/RFLog.hh"
-#include "RestFrames/RFList.hh"
+#include "RFKey.hh"
+#include "RFLog.hh"
+#include "RFList.hh"
 
 namespace RestFrames {
 

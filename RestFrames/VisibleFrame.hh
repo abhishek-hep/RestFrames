@@ -30,7 +30,7 @@
 #ifndef VisibleFrame_HH
 #define VisibleFrame_HH
 
-#include "RestFrames/RestFrame.hh"
+#include "RestFrame.hh"
 
 namespace RestFrames {
 

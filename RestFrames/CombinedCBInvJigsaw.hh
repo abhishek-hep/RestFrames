@@ -30,7 +30,7 @@
 #ifndef CombinedCBInvJigsaw_HH
 #define CombinedCBInvJigsaw_HH
 
-#include "RestFrames/InvisibleJigsaw.hh"
+#include "InvisibleJigsaw.hh"
 
 namespace RestFrames {
 

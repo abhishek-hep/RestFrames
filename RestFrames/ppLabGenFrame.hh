@@ -30,7 +30,7 @@
 #ifndef ppLabGenFrame_HH
 #define ppLabGenFrame_HH
 
-#include "RestFrames/LabGenFrame.hh"
+#include "LabGenFrame.hh"
 
 namespace RestFrames {
 

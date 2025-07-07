@@ -27,8 +27,8 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/RestFrame.hh"
-#include "RestFrames/ReconstructionFrame.hh"
+#include "RestFrame.hh"
+#include "ReconstructionFrame.hh"
 
 namespace RestFrames {
 

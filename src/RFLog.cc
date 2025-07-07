@@ -29,8 +29,8 @@
 
 #include <iomanip>
 #include <stdlib.h>
-#include "RestFrames/RFLog.hh"
-#include "RestFrames/RFBase.hh"
+#include "RFLog.hh"
+#include "RFBase.hh"
 
 namespace RestFrames {
 

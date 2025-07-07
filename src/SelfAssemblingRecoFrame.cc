@@ -27,11 +27,11 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/SelfAssemblingRecoFrame.hh"
-#include "RestFrames/VisibleRecoFrame.hh"
-#include "RestFrames/LabRecoFrame.hh"
-#include "RestFrames/VisibleState.hh"
-#include "RestFrames/CombinatoricState.hh"
+#include "SelfAssemblingRecoFrame.hh"
+#include "VisibleRecoFrame.hh"
+#include "LabRecoFrame.hh"
+#include "VisibleState.hh"
+#include "CombinatoricState.hh"
 
 namespace RestFrames {
 

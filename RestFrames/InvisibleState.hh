@@ -30,7 +30,7 @@
 #ifndef InvisibleState_HH
 #define InvisibleState_HH
 
-#include "RestFrames/State.hh"
+#include "State.hh"
 
 namespace RestFrames {
 

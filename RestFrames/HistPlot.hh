@@ -34,7 +34,7 @@
 #include <TH1D.h>
 #include <TH2D.h>
 
-#include "RestFrames/RFPlot.hh"
+#include "RFPlot.hh"
 
 namespace RestFrames {
 

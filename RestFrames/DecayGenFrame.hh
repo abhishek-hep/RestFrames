@@ -30,8 +30,8 @@
 #ifndef DecayGenFrame_HH
 #define DecayGenFrame_HH
 
-#include "RestFrames/DecayFrame.hh"
-#include "RestFrames/GeneratorFrame.hh"
+#include "DecayFrame.hh"
+#include "GeneratorFrame.hh"
 
 namespace RestFrames {
 

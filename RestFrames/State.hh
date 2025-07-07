@@ -30,9 +30,9 @@
 #ifndef State_HH
 #define State_HH
 
-#include "RestFrames/RFBase.hh"
-#include "RestFrames/RFCharge.hh"
-#include "RestFrames/Jigsaw.hh"
+#include "RFBase.hh"
+#include "RFCharge.hh"
+#include "Jigsaw.hh"
 
 namespace RestFrames {
 

@@ -27,10 +27,10 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/InvisibleGroup.hh"
-#include "RestFrames/InvisibleState.hh"
-#include "RestFrames/ReconstructionFrame.hh"
-#include "RestFrames/Jigsaw.hh"
+#include "InvisibleGroup.hh"
+#include "InvisibleState.hh"
+#include "ReconstructionFrame.hh"
+#include "Jigsaw.hh"
 
 namespace RestFrames {
 

@@ -30,8 +30,8 @@
 #ifndef Jigsaw_HH
 #define Jigsaw_HH
 
-#include "RestFrames/RFBase.hh"
-#include "RestFrames/Group.hh"
+#include "RFBase.hh"
+#include "Group.hh"
 
 namespace RestFrames {
 

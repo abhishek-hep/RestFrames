@@ -29,7 +29,7 @@
 
 #include "Math/Factory.h"
 
-#include "RestFrames/MinMassDiffInvJigsaw.hh"
+#include "MinMassDiffInvJigsaw.hh"
 
 namespace RestFrames {
 

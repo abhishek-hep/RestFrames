@@ -27,17 +27,17 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/RFList.hh"
-#include "RestFrames/VisibleRecoFrame.hh"
-#include "RestFrames/DecayRecoFrame.hh"
-#include "RestFrames/ResonanceGenFrame.hh"
-#include "RestFrames/Jigsaw.hh"
-#include "RestFrames/Group.hh"
-#include "RestFrames/VisibleState.hh"
-#include "RestFrames/InvisibleState.hh"
-#include "RestFrames/CombinatoricState.hh"
-#include "RestFrames/HistPlotVar.hh"
-#include "RestFrames/HistPlotCategory.hh"
+#include "RFList.hh"
+#include "VisibleRecoFrame.hh"
+#include "DecayRecoFrame.hh"
+#include "ResonanceGenFrame.hh"
+#include "Jigsaw.hh"
+#include "Group.hh"
+#include "VisibleState.hh"
+#include "InvisibleState.hh"
+#include "CombinatoricState.hh"
+#include "HistPlotVar.hh"
+#include "HistPlotCategory.hh"
 
 namespace RestFrames {
 

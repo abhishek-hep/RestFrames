@@ -30,9 +30,9 @@
 #ifndef InvisibleJigsaw_HH
 #define InvisibleJigsaw_HH
 
-#include "RestFrames/Jigsaw.hh"
-#include "RestFrames/InvisibleGroup.hh"
-#include "RestFrames/InvisibleState.hh"
+#include "Jigsaw.hh"
+#include "InvisibleGroup.hh"
+#include "InvisibleState.hh"
 
 namespace RestFrames {
 

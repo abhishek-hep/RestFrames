@@ -27,8 +27,8 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/SetRapidityInvJigsaw.hh"
-#include "RestFrames/RestFrame.hh"
+#include "SetRapidityInvJigsaw.hh"
+#include "RestFrame.hh"
 
 namespace RestFrames {
 

@@ -27,10 +27,10 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/TreePlotNode.hh"
-#include "RestFrames/RestFrame.hh"
-#include "RestFrames/Jigsaw.hh"
-#include "RestFrames/State.hh"
+#include "TreePlotNode.hh"
+#include "RestFrame.hh"
+#include "Jigsaw.hh"
+#include "State.hh"
 
 namespace RestFrames {
   

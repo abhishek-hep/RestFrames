@@ -27,8 +27,8 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/RestFrame.hh"
-#include "RestFrames/MinMassesSqCombJigsaw.hh"
+#include "RestFrame.hh"
+#include "MinMassesSqCombJigsaw.hh"
 
 namespace RestFrames {
 

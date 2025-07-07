@@ -33,7 +33,7 @@
 #include "Math/Minimizer.h"
 #include "Math/Functor.h"
 
-#include "RestFrames/InvisibleJigsaw.hh"
+#include "InvisibleJigsaw.hh"
 
 namespace RestFrames {
 

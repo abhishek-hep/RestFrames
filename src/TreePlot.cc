@@ -33,15 +33,15 @@
 #include "TLegend.h"
 #include "TLegendEntry.h"
 
-#include "RestFrames/TreePlot.hh"
-#include "RestFrames/TreePlotNode.hh"
-#include "RestFrames/TreePlotLink.hh"
-#include "RestFrames/Jigsaw.hh"
-#include "RestFrames/State.hh"
-#include "RestFrames/CombinatoricGroup.hh"
-#include "RestFrames/DecayRecoFrame.hh"
-#include "RestFrames/VisibleRecoFrame.hh"
-#include "RestFrames/InvisibleRecoFrame.hh"
+#include "TreePlot.hh"
+#include "TreePlotNode.hh"
+#include "TreePlotLink.hh"
+#include "Jigsaw.hh"
+#include "State.hh"
+#include "CombinatoricGroup.hh"
+#include "DecayRecoFrame.hh"
+#include "VisibleRecoFrame.hh"
+#include "InvisibleRecoFrame.hh"
 
 namespace RestFrames {
 

@@ -29,7 +29,7 @@
 
 #include "Math/Factory.h"
 
-#include "RestFrames/MaxProbBreitWignerInvJigsaw.hh"
+#include "MaxProbBreitWignerInvJigsaw.hh"
 
 namespace RestFrames {
 

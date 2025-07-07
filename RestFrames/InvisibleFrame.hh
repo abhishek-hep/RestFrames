@@ -30,7 +30,7 @@
 #ifndef InvisibleFrame_HH
 #define InvisibleFrame_HH
 
-#include "RestFrames/RestFrame.hh"
+#include "RestFrame.hh"
 
 namespace RestFrames {
 

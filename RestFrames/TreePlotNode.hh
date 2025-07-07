@@ -31,7 +31,7 @@
 #define TreePlotNode_HH
 
 #include <string>
-#include "RestFrames/RFList.hh"
+#include "RFList.hh"
 
 namespace RestFrames {
 

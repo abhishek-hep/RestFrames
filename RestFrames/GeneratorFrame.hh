@@ -32,7 +32,7 @@
 
 #include <TRandom.h>
 
-#include "RestFrames/RestFrame.hh"
+#include "RestFrame.hh"
 
 namespace RestFrames {
 

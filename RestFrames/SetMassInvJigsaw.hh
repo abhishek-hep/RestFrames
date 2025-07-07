@@ -30,7 +30,7 @@
 #ifndef SetMassInvJigsaw_HH
 #define SetMassInvJigsaw_HH
 
-#include "RestFrames/InvisibleJigsaw.hh"
+#include "InvisibleJigsaw.hh"
 
 namespace RestFrames {
 

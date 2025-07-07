@@ -28,7 +28,7 @@
 /////////////////////////////////////////////////////////////////////////
 
 #include <stdlib.h>
-#include "RestFrames/ResonanceGenFrame.hh"
+#include "ResonanceGenFrame.hh"
 
 namespace RestFrames {
 

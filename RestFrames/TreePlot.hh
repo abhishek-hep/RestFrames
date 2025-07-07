@@ -32,8 +32,8 @@
 
 #include <TCanvas.h>
 
-#include "RestFrames/RFPlot.hh"
-#include "RestFrames/RestFrame.hh"
+#include "RFPlot.hh"
+#include "RestFrame.hh"
 
 namespace RestFrames {
 

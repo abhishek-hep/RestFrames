@@ -27,8 +27,8 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/CombinedCBInvJigsaw.hh"
-#include "RestFrames/ContraBoostInvJigsaw.hh"
+#include "CombinedCBInvJigsaw.hh"
+#include "ContraBoostInvJigsaw.hh"
 
 namespace RestFrames {
 

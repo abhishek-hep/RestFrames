@@ -27,8 +27,8 @@
 //   along with RestFrames. If not, see <http://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////
 
-#include "RestFrames/TreePlotLink.hh"
-#include "RestFrames/Jigsaw.hh"
+#include "TreePlotLink.hh"
+#include "Jigsaw.hh"
 
 namespace RestFrames {
 

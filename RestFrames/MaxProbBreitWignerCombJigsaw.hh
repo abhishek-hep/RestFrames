@@ -30,7 +30,7 @@
 #ifndef MaxProbBreitWignerCombJigsaw_HH
 #define MaxProbBreitWignerCombJigsaw_HH
 
-#include "RestFrames/CombinatoricJigsaw.hh"
+#include "CombinatoricJigsaw.hh"
 
 namespace RestFrames {
 

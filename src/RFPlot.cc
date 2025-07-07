@@ -30,7 +30,7 @@
 #include <TStyle.h>
 #include <TROOT.h>
 
-#include "RestFrames/RFPlot.hh"
+#include "RFPlot.hh"
 
 namespace RestFrames {
   

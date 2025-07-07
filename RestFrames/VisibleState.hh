@@ -30,7 +30,7 @@
 #ifndef VisibleState_HH
 #define VisibleState_HH
 
-#include "RestFrames/State.hh"
+#include "State.hh"
 
 namespace RestFrames {
 

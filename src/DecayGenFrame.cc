@@ -28,7 +28,7 @@
 /////////////////////////////////////////////////////////////////////////
 
 #include <stdlib.h>
-#include "RestFrames/DecayGenFrame.hh"
+#include "DecayGenFrame.hh"
 
 namespace RestFrames {
 

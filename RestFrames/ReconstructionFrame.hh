@@ -30,8 +30,8 @@
 #ifndef ReconstructionFrame_HH
 #define ReconstructionFrame_HH
 
-#include "RestFrames/RestFrame.hh"
-#include "RestFrames/Group.hh"
+#include "RestFrame.hh"
+#include "Group.hh"
 
 namespace RestFrames {
   
